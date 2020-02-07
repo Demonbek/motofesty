@@ -51,6 +51,11 @@
 #zagolovok{
     font: normal bold 60px Arial;
 }
+
+#categorys{
+     width: 940px;
+   height: 230px;  
+}
 #categoria{
    width: 220px;
    height: 230px;
