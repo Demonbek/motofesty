@@ -62,9 +62,17 @@
 
 
 </div>
-<?php
-	include("include/block-footer.php");
-?>
+< div  id = " block-footer " >
+< div  id = " contacty-footer " >
+< p > « Папа Кало » . Доставка еды . От 500 руб . бесплатно </ p >
+
+< p > Наш адрес: </ p >
+< Р > г . Тверская обл . Кимры, улица Чапаева, 22 а </ p >
+
+< p > Телефон: + 7 ( 900 ) 111 - 14 - 21 , </ p >
+</ div >
+</ div >
+
 </div>
 </body>
 </html>
