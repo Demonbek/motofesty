@@ -36,6 +36,7 @@
     background: #FEE685;
     color: #F36E21;
     margin-bottom: 20px;
+    margin: 0 auto; 
 }
 #block-footer{
     width: 940px;
