@@ -6,12 +6,7 @@
     margin: 0 auto;   
     background-color: #fad58e;
 }
-#block-body-pizza{
-    width: 1024px;
-    height: 3650px; 
-    margin: 0 auto;   
-    background-color: #fad58e;
-}
+
 #block-header{
     width: 940px;
     height: 320px;
@@ -21,35 +16,6 @@
     width: 940px;
     height: 640px;
     margin:  0 auto;
-}
-#block-pizza{
-    width: 940px;
-    height: 3150px;
-    margin:  0 auto;
-}
-#block-pizza p{
-    width: 450px;
-    height: 80px;
-    background: black;
-    color: #FEE685;
-    margin: 0 auto; 
-}
-#block-pizza h3{
-    width: 450px;
-    background: #FEE685;
-    color: #F36E21;
-    margin-bottom: 5px;
-}
-#block-pizza h2{
-    width: 450px;
-    background: #F36E21;
-    font-size: larger;
-    color: black;
-    margin-top: 5px;
-}
-#block-pizza th{
-    border: 3px double black;
-    background: #F36E21;
 }
 #block-footer{
     width: 940px;
@@ -174,4 +140,152 @@
 }
 #opisanie{
     float: right;
+}
+/* Пицца */
+#block-body-pizza{
+    width: 1024px;
+    height: 3650px; 
+    margin: 0 auto;   
+    background-color: #fad58e;
+    }
+#block-pizza{
+    width: 940px;
+    height: 3150px;
+    margin:  0 auto;
+}
+#block-pizza p{
+    width: 450px;
+    height: 80px;
+    background: black;
+    color: #FEE685;
+    margin: 0 auto; 
+}
+#block-pizza h3{
+    width: 450px;
+    background: #FEE685;
+    color: #F36E21;
+    margin-bottom: 5px;
+}
+#block-pizza h2{
+    width: 450px;
+    background: #F36E21;
+    font-size: larger;
+    color: black;
+    margin-top: 5px;
+}
+#block-pizza th{
+    border: 3px double black;
+    background: #F36E21;
+}
+/* Бургеры */
+#block-body-burgery{
+    width: 1024px;
+    height: 2350px; 
+    margin: 0 auto;   
+    background-color: #fad58e;
+    }
+#block-burgery{
+    width: 940px;
+    height: 1850px;
+    margin:  0 auto;
+}
+#block-burgery p{
+    width: 450px;
+    height: 80px;
+    background: black;
+    color: #FEE685;
+    margin: 0 auto; 
+}
+#block-burgery h3{
+    width: 450px;
+    background: #FEE685;
+    color: #F36E21;
+    margin-bottom: 5px;
+}
+#block-burgery h2{
+    width: 450px;
+    background: #F36E21;
+    font-size: larger;
+    color: black;
+    margin-top: 5px;
+}
+#block-burgery th{
+    border: 3px double black;
+    background: #F36E21;
+}
+
+
+/* С пыла-жару */
+
+#block-body-spila{
+    width: 1024px;
+    height: 1850px; 
+    margin: 0 auto;   
+    background-color: #fad58e;
+    }
+#block-spila{
+    width: 940px;
+    height: 1350px;
+    margin:  0 auto;
+}
+#block-spila p{
+    width: 450px;
+    height: 80px;
+    background: black;
+    color: #FEE685;
+    margin: 0 auto; 
+}
+#block-spila h3{
+    width: 450px;
+    background: #FEE685;
+    color: #F36E21;
+    margin-bottom: 5px;
+}
+#block-spila h2{
+    width: 450px;
+    background: #F36E21;
+    font-size: larger;
+    color: black;
+    margin-top: 5px;
+}
+#block-spila th{
+    border: 3px double black;
+    background: #F36E21;
+}
+/* На углях */
+
+#block-body-naugliah{
+    width: 1024px;
+    height: 1850px; 
+    margin: 0 auto;   
+    background-color: #fad58e;
+    }
+#block-naugliah{
+    width: 940px;
+    height: 1350px;
+    margin:  0 auto;
+}
+#block-naugliah p{
+    width: 450px;
+    height: 80px;
+    background: black;
+    color: #FEE685;
+    margin: 0 auto; 
+}
+#block-naugliah h3{
+    width: 450px;
+    background: #FEE685;
+    color: #F36E21;
+    margin-bottom: 5px;
+}
+#block-naugliah h2{
+    width: 450px;
+    background: #F36E21;
+    font-size: larger;
+    color: black;
+    margin-top: 5px;
+}
+#block-naugliah th{
+    border: 3px double black;
+    background: #F36E21;
 }
