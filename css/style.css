@@ -4,6 +4,12 @@
     margin: 0 auto;   
     background-color: #fad58e;
 }
+#block-body-pizza{
+    width: 1024px;
+    height: 3400px; 
+    margin: 0 auto;   
+    background-color: #fad58e;
+}
 #block-header{
     width: 940px;
     height: 320px;
@@ -16,7 +22,7 @@
 }
 #block-pizza{
     width: 940px;
-    height: 3500px;
+    height: 2900px;
     margin:  0 auto;
 }
 #block-footer{
