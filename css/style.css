@@ -1,3 +1,5 @@
+/* Основная страница */
+
 #block-body{
     width: 1024px;
     height: 1180px; 
@@ -26,26 +28,28 @@
     margin:  0 auto;
 }
 #block-pizza p{
-    width: 400px;
+    width: 450px;
     height: 80px;
     background: black;
     color: #FEE685;
     margin: 0 auto; 
 }
 #block-pizza h3{
-    width: 400px;
+    width: 450px;
     background: #FEE685;
     color: #F36E21;
-    margin-bottom: 20px;
-    margin: 0 auto; 
+    margin-bottom: 5px;
 }
 #block-pizza h2{
-    width: 400px;
+    width: 450px;
     background: #F36E21;
     font-size: larger;
     color: black;
-    margin-bottom: 10px;
-    margin: 0 auto; 
+    margin-top: 5px;
+}
+#block-pizza th{
+    border: 3px double black;
+    background: #F36E21;
 }
 #block-footer{
     width: 940px;
