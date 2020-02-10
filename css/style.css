@@ -141,6 +141,10 @@
 #opisanie{
     float: right;
 }
+
+#scechik{
+    float: right;
+}
 /* Пицца */
 #block-body-pizza{
     width: 1024px;
