@@ -258,3 +258,35 @@
     border: 3px double black;
     background: #F36E21;
 }
+/* Основная страница */
+
+.menu {
+    width: 1024px;
+    height: 40px;
+  list-style: none; /*убираем маркеры списка*/
+  margin: 0 auto; /*убираем отступы*/
+  padding-left: 0; /*убираем отступы*/
+  margin-top:5px; /*делаем отступ сверху*/
+  background:#F36E21; /*добавляем фон всему меню (заменив этот параметр, вы поменяете цвет всего меню)*/
+  height: 50px; /*задаем высоту*/
+  border: 1px double black;
+}
+.menu a {
+  text-decoration: none; /*убираем подчеркивание текста ссылок*/
+  background:#F36E21; /*добавляем фон к пункту меню (заменив этот параметр, вы поменяете цвет всех пунктов меню)*/
+  color:#fff; /*меняем цвет ссылок*/
+  padding:0px 15px; /*добавляем отступ*/
+  font-family: arial; /*меняем шрифт*/
+  line-height:50px; /*ровняем меню по вертикали*/
+  display: block; 
+  border-right: 1px solid #F36262; /*добавляем бордюр справа*/
+  -moz-transition: all 0.3s 0.01s ease; /*делаем плавный переход*/
+  -o-transition: all 0.3s 0.01s ease;
+  -webkit-transition: all 0.3s 0.01s ease;
+}
+.menu a:hover {
+  background:#fad58e;/*добавляем эффект при наведении*/
+}
+.menu li {
+  float:left; /*Размещаем список горизонтально для реализации меню*/
+}
