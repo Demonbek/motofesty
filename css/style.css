@@ -85,7 +85,7 @@
 #contacty-footer{
   width: 550px;
    height: 130px;
-   padding-top: 20px;
+   padding-top: 5px;
    margin: 20px 0px -110px 0px;
 }
 #contacty-footer>p{
@@ -99,47 +99,6 @@
     margin-left: 42px;
     border: 1px solid black;
 
-}
-#block-right{
-    width: 195px;
-    min-height: 680px;
-    margin-right: 42px;
-    margin-top: -680px;
-    float: right;
-    border: 1px solid black;
-}
-
-#menu-right{
-    margin: 20px;
-}
-
-#globus{
-    margin: 5px;
-}
-.block-raznovidnoct{
-    width: 200px;
-    height: 200px;
-    margin-top: 50px;
-    font: normal 30px Arial;
-    background-color: #FEE685;
-}
-.menu-komplekt{
-    float: right;
-    margin-top: -200px;
-    margin-right: 20px;
-}
-.block-raznovidnoct h1{ 
-    margin-top: 35px;
-}   
-#pic{
-    width: 300px;
-    height: 300px;
-} 
-#block-product strong{
-    color: red;
-}
-#opisanie{
-    float: right;
 }
 
 #schetchik{
