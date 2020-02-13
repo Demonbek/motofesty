@@ -33,8 +33,27 @@
   width: 700px; 
   float: left;
   margin-top: -20px;
-  margin-left: 120px;
-  font-size: large;
+  margin-left: 120px; 
+font-family: Arial;
+	font-size: 18px;
+	color: #F36E21;
+	text-shadow: 
+		-0   -1px 1px #000000,
+		 0   -1px 1px #000000,
+		-0    1px 1px #000000,
+		 0    1px 1px #000000,
+		-1px -0   1px #000000,
+		 1px -0   1px #000000,
+		-1px  0   1px #000000,
+		 1px  0   1px #000000,
+		-1px -1px 1px #000000,
+		 1px -1px 1px #000000,
+		-1px  1px 1px #000000,
+		 1px  1px 1px #000000,
+		-1px -1px 1px #000000,
+		 1px -1px 1px #000000,
+		-1px  1px 1px #000000,
+		 1px  1px 1px #000000;
 }
 #contacty{
     width: 440px;
