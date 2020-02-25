@@ -167,13 +167,13 @@ font-family: Arial;
 /* Бургеры */
 #block-body-burgery{
     width: 1024px;
-    height: 2278px; 
+    height: 2058px; 
     margin: 0 auto;   
     background-color: #fad58e;
     }
 #block-burgery{
     width: 940px;
-    height: 1778px;
+    height: 1558px;
     margin:  0 auto;
 }
 #block-burgery p{
@@ -202,6 +202,44 @@ font-family: Arial;
     background: #F36E21;
 }
 
+
+/* Блины*/
+#block-body-bliny{
+    width: 1024px;
+    height: 1828px; 
+    margin: 0 auto;   
+    background-color: #fad58e;
+    }
+#block-bliny{
+    width: 940px;
+    height: 1328px;
+    margin:  0 auto;
+}
+#block-bliny p{
+    width: 450px;
+    height: 80px;
+    background: black;
+    color: #FEE685;
+    margin: 0 auto; 
+}
+#block-bliny h3{
+    width: 450px;
+    background: #FEE685;
+    color: #F36E21;
+    margin-bottom: 5px;
+    margin: 0 auto;   
+}
+#block-bliny h2{
+    width: 450px;
+    background: #F36E21;
+    font-size: larger;
+    color: black;
+    margin-top: 5px;
+}
+#block-bliny th{
+    border: 3px double black;
+    background: #F36E21;
+}
 
 /* С пыла-жару */
 
