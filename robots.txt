@@ -2,4 +2,4 @@ User-agent: *
 Crawl-delay: 20
 Disallow: /images/
 Disallow: /css/
-Sitemap: https://papakarlokimty.ru/sitemap.xml
+Sitemap: https://papakarlokimry.ru/sitemap.xml
