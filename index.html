@@ -10,6 +10,39 @@
 
   gtag('config', 'UA-149309523-2');
 </script>
+<!--   -->
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+var cookie = "Не являеться публичной офертой.";
+function popup(){
+if (getcookie(cookie)==""){
+openpopup();
+setcookie();
+}
+}
+function openpopup() {
+window.open("/ne-publichnaja-oferta.html","","toolbar=No,menubar=No,location=No,scrollbars=No,resizable=No,status=No,width=800,height=250,left=300,top=175").blur(); window.focus();
+}
+function getcookie(cookieName) {
+var id = cookieName + "=";
+var cookievalue = "";
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(id);
+if (offset != -1) {
+cookievalue = "x";
+}
+}
+return cookievalue;
+}
+
+function setcookie () {
+document.cookie = cookie
++ "="
++ escape ("done");
+}
+//-->
+</SCRIPT>
 	<meta http-equiv="content-type" content="text/html" charset="utf-8"/>
     <meta name="description" content="Кафе «Папа Карло». Доставка еды по городу Кимры. Мы доставим вам пиццу, шаурму, хачапури, шашлык и т.д."/>
     <meta name="keywords" content="Папа Карло, фастфуд, еда, доставка, пицца, кимры, бургеры, шаурма, хачапури, шашлык, картофель, фри, по деревенски"/>
@@ -24,7 +57,7 @@
 	<title>Кафе 'Папа Карло'</title>
 </head>
 
-<body>
+<body onload="popup();">
 <ul class="menu">
     <li><a href="/index.html">Главная</a></li>
     <li><a href="/pizza.html">Пицца</a></li>
@@ -32,6 +65,7 @@
     <li><a href="/spila.html">С пыла-жару</a></li> 
     <li><a href="/naugljah.html">Блюда на углях</a></li>
     <li><a href="/contacts.html">Мы на карте</a></li>
+    <li><a href="/ne-publichnaja-oferta.html">Не являеться публичной офертой</a></li>
   </ul>
 <div id="block-body">
           <div id="block-header">
