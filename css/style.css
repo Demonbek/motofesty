@@ -17,6 +17,7 @@
     height: 955px;
     margin:  0 auto;
 }
+
 #block-footer{
     width: 940px;
     height: 160px;
@@ -349,3 +350,8 @@ font-family: Arial;
 .menu li {
   float:left; /*Размещаем список горизонтально для реализации меню*/
 }
+/* Магазин*/
+#block-shop{
+    width: 940px;
+    height: 955px;
+    margin:  0 auto;
