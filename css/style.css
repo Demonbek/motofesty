@@ -354,5 +354,5 @@ font-family: Arial;
 /* Магазин*/
 #block-shop{
     width: 940px;
-    height: 955px;
+    height: auto;
     margin:  0 auto;
