@@ -19,6 +19,23 @@
     background-image: url("https://demonbek.github.io/motofesty/images/header.png");
     background-size: cover;
     background-position: center;
+        text-shadow: 
+		-0   -1px 0   #000000,
+		 0   -1px 0   #000000,
+		-0    1px 0   #000000,
+		 0    1px 0   #000000,
+		-1px -0   0   #000000,
+		 1px -0   0   #000000,
+		-1px  0   0   #000000,
+		 1px  0   0   #000000,
+		-1px -1px 0   #000000,
+		 1px -1px 0   #000000,
+		-1px  1px 0   #000000,
+		 1px  1px 0   #000000,
+		-1px -1px 0   #000000,
+		 1px -1px 0   #000000,
+		-1px  1px 0   #000000,
+		 1px  1px 0   #000000;
 }
 #block-content{
     width: 940px;
@@ -77,10 +94,3 @@
 .menu li {
   float:left; /*Размещаем список горизонтально для реализации меню*/
 }
-/* Магазин*/
-#block-shop{
-    width: 940px;
-    height: auto;
-    border: 1px double #FEE685;
-    margin-top: 5px;
-    margin:  0 auto;
