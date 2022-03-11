@@ -9,9 +9,10 @@
 }
 
 #block-header{
-    width: 940px;
-    height: 320px;
-    margin:  0 auto;
+    width: 1024px;
+    height: 200px;
+    background-image: url("https://demonbek.github.io/images/header.png");
+    background-color: #cccccc;
 }
 #block-content{
     width: 940px;
@@ -23,7 +24,7 @@
     width: 940px;
     height: 160px;
     margin:  0 auto;
-    background-image: url("../images/footer.jpg");
+    background-image: url("../images/footer.png");
     background-size: cover;
 }
 #logo{
