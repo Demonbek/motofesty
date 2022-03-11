@@ -5,7 +5,8 @@
     height: auto;
     margin: 10px auto;
     border: 1px solid black;
-    background-image: url("https://demonbek.github.io/motofesty/images/fon.png");
+    background-image: url("https://demonbek.github.io/motofesty/images/fon.png") no-repeat;
+     background-size: 100%; 
 
 }
 
