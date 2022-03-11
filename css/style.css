@@ -13,7 +13,8 @@
 
 #block-header{
     width: 1024px;
-    height: 200px;
+    height: 300px;
+    margin:  0 auto;
     background-image: url("https://demonbek.github.io/motofesty/images/header.png");
     background-size: cover;
     background-position: center;
