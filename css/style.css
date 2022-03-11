@@ -3,15 +3,16 @@
 #block-body{
     width: 1024px;
     height: auto;
-    /*height: 1480px;*/
-    margin: 0 auto;   
-    background-color: #fad58e;
+    margin: 10px auto;
+    border: 1px solid black;
+    background-image: url("https://demonbek.github.io/motofesty/images/fon.png");
+
 }
 
 #block-header{
     width: 1024px;
     height: 200px;
-    background-image: url("https://demonbek.github.io/images/header.png");
+    background-image: url("https://demonbek.github.io/motofesty/images/header.png");
     background-color: #cccccc;
 }
 #block-content{
