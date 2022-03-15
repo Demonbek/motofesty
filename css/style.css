@@ -48,7 +48,11 @@
     margin: 10px auto;
     padding: 2px;
     border: 1px solid black;
+    text-decoration: blue;
     
+}
+.motofest div{
+    text-decoration: black;
 }
 #block-footer{
     width: 1024px;
