@@ -64,6 +64,7 @@ color: blue;
     .niz{
         clear: both;
     }
+    
 #block-footer{
     width: 1024px;
     height: 100px;
@@ -80,6 +81,11 @@ color: blue;
     color: #F3EB9A;
     margin-right: 42px;
     padding-top: 242px;
+    
+}
+
+#schetchik{
+    
     
 }
 /* Основная страница */
