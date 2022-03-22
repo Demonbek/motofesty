@@ -44,7 +44,7 @@
 }
 .motofest{
     width: 940px;
-    height: 500px auto;
+    height: 0 auto;
     margin: 10px auto;
     padding: 2px;
     border: 1px solid black;   
@@ -52,7 +52,8 @@
 
 .motofest img{
     float:left; /* Выравнивание по левому краю */
-    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */   
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */ 
+    position: relative;  
 }
 
 .motofest h2{
