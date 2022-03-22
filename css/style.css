@@ -54,7 +54,6 @@
 .motofest img{
     float:left; /* Выравнивание по левому краю */
     margin: 7px 7px 7px 0; /* Отступы вокруг картинки */ 
-    position: relative;  
 }
 
 .motofest h2{
