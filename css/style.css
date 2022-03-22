@@ -51,8 +51,11 @@
     text-decoration: blue;
     
 }
-.motofest div{
-    text-decoration: black;
+
+.motofest img{
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
+    
 }
 #block-footer{
     width: 1024px;
