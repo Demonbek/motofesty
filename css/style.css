@@ -3,7 +3,7 @@
 #block-body{
     width: 1024px;
     height: auto;
-    margin: 10px auto;
+    margin: 10px;
     background-image: url("https://demonbek.github.io/motofesty/images/fon.png");
     background-size: cover;
     background-position: center;
@@ -46,7 +46,7 @@
     min-height: 100px;
     height: auto;
     margin: 10px auto;
-    padding: 2px;
+    padding: 7px;
     border: 1px solid blue;   
 }
 
