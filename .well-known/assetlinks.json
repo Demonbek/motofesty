@@ -6,4 +6,20 @@
     "sha256_cert_fingerprints":
     ["4C:77:B5:E1:9B:80:D9:87:CB:60:1C:71:5A:FE:BB:B6:B6:77:76:A0:3A:D3:31:B7:5D:3B:BA:C1:F7:1D:70:22"]
   }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://motofesty.tk"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ru.demonapps.motofest",
+    "sha256_cert_fingerprints":
+    ["4C:77:B5:E1:9B:80:D9:87:CB:60:1C:71:5A:FE:BB:B6:B6:77:76:A0:3A:D3:31:B7:5D:3B:BA:C1:F7:1D:70:22"]
+  }
 }]
