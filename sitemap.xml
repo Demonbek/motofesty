@@ -2,12 +2,12 @@
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
   <loc>https://motofesty.tk/index.html</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2022-05-10</lastmod>
+  <changefreq>weekly</changefreq>
+  <lastmod>2022-05-11</lastmod>
 </url>
 <url>
   <loc>https://motofesty.tk/arhiv.html</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <lastmod>2022-05-10</lastmod>
 </url>
 <url>
@@ -16,7 +16,7 @@
   <lastmod>2022-05-10</lastmod>
 <url>
   <loc>https://motofesty.tk/video.html</loc>
-  <changefreq>monthly</changefreq>
+  <changefreq>weekly</changefreq>
   <lastmod>2022-05-10</lastmod>
 </url>
 </url>
