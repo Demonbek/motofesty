@@ -1,1 +1,11 @@
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ru.demonapps.motofest",
+      "sha256_cert_fingerprints":
+        ["3C:B9:2B:D2:63:2A:96:BB:9D:71:90:5E:D2:36:3A:CF:4A:45:BE:7A:DE:65:29:1D:60:4A:9B:E5:98:B2:12:2E"]
+    }
+  }
+]
