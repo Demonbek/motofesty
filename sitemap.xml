@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+    <url>
+  <loc>https://demonbek.github.io/index.html</loc>
+  <changefreq>weekly</changefreq>
+  <lastmod>2023-04-03</lastmod>
+</url>
 <url>
   <loc>https://demonbek.github.io/motofesty/index.html</loc>
   <changefreq>weekly</changefreq>
-  <lastmod>2023-03-26</lastmod>
+  <lastmod>2023-04-03</lastmod>
 </url>
 <url>
   <loc>https://demonbek.github.io/motofesty/arhiv.html</loc>
   <changefreq>weekly</changefreq>
-  <lastmod>2023-03-26</lastmod>
+  <lastmod>2023-04-03</lastmod>
 </url>
 <url>
   <loc>https://demonbek.github.io/motofesty/apps.html</loc>
   <changefreq>monthly</changefreq>
-  <lastmod>2023-03-26</lastmod>
+  <lastmod>2023-04-03</lastmod>
 </url>
 <url>
   <loc>https://demonbek.github.io/motofesty/video.html</loc>
   <changefreq>weekly</changefreq>
-  <lastmod>2023-03-26</lastmod>
+  <lastmod>2023-04-03</lastmod>
 </url>
 </urlset>
