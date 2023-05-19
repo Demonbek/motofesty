@@ -1,28 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-  <loc>https://demonbek.github.io/index.html</loc>
-  <changefreq>weekly</changefreq>
-  <lastmod>2023-05-17</lastmod>
-</url>
-<url>
-  <loc>https://demonbek.github.io/motofesty/index.html</loc>
-  <changefreq>weekly</changefreq>
-  <lastmod>2023-05-17</lastmod>
-</url>
-<url>
-  <loc>https://demonbek.github.io/motofesty/arhiv.html</loc>
-  <changefreq>weekly</changefreq>
-  <lastmod>2023-05-17</lastmod>
-</url>
-<url>
-  <loc>https://demonbek.github.io/motofesty/apps.html</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2023-04-23</lastmod>
-</url>
-<url>
-  <loc>https://demonbek.github.io/motofesty/video.html</loc>
-  <changefreq>weekly</changefreq>
-  <lastmod>2023-04-23</lastmod>
-</url>
+        <loc>https://demonbek.github.io/index.html</loc>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://demonbek.github.io/motofesty/index.html</loc>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://demonbek.github.io/motofesty/arhiv.html</loc>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://demonbek.github.io/motofesty/apps.html</loc>
+        <changefreq>monthly</changefreq>
+        <lastmod>2023-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://demonbek.github.io/motofesty/video.html</loc>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-05-20</lastmod>
+    </url>
+    <url>
+        <loc>https://demonbek.github.io/motofesty/music.html</loc>
+        <changefreq>weekly</changefreq>
+        <lastmod>2023-05-20</lastmod>
+    </url>
 </urlset>
