@@ -4,10 +4,7 @@
         <title>Мотофесты RSS</title>
         <link>https://demonbek.github.io/motofesty/</link>
         <description>Расписание мотофестов РФ. Открытия и закрытия мотосезона, мото-выставки, мотослеты, байк фестивали и байк-фесты.</description>
-        <pubDate>Mon, 09 Oct 2023 00:00:00 +0300</pubDate>
-        <lastBuildDate>Tue, 10 Oct 2023 00:00:01 +0300</lastBuildDate>
         <item>
-            <pubDate>10.10.2023 20:56:36</pubDate>
             <title>Пати на Ергаки 2023 - НЕ ЗДОРОВАЯ ВЕЧЕРИНКА</title>
             <link>https://vk.com/wall-156457806_3431</link>
             <image>
@@ -92,9 +89,10 @@
                 Состоиться:17.11.2023
                 Координаты: 52.837593, 93.254663
                 Место проведения: Красноярский край</description>
+                            <guid>1213432</guid>
+
         </item>
         <item>
-            <pubDate>10.10.2023 19:07:57</pubDate>
             <title>Дикий Гряземес</title>
             <link>vk.com/wwmcru</link>
             <image>
@@ -127,13 +125,13 @@
                 Состоиться:21.10.2023
                 Координаты: 59.181419, 39.312338
                 Место проведения: Вологда</description>
+            <guid>1213433466</guid>
         </item>
         <item>
-            <pubDate>10.10.2023 18:55:59</pubDate>
             <title>СУПЕРКОЗЛЫ в Дубне</title>
             <link>https://vk.com/event222712477</link>
             <image>
-                <url>https://sun1-21.userapi.com/impg/V8zudcjUEW3J9XawZ9vnWEJ1_tMaibKtL0OGJg/GXChgWjKZNk.jpg?size=764x1080&quality=95&sign=8de5ef63a9b272543790a6167cd133d9&type=album</url>
+                <url>https://sun1-21.userapi.com/impg/V8zudcjUEW3J9XawZ9vnWEJ1_tMaibKtL0OGJg/GXChgWjKZNk.jpg</url>
                 <title>Афиша мероприятия</title>
                 <link>https://demonbek.github.io/motofesty/</link>
             </image>
@@ -146,7 +144,6 @@
                 Место проведения: Дубна, МО</description>
         </item>
         <item>
-            <pubDate>10.10.2023 18:55:03</pubDate>
             <title>Закрытие МотоСезона(Луховицы)</title>
             <link>https://vk.com/club95935874</link>
             <image>
@@ -163,6 +160,7 @@
                 Состоиться:14.10.2023
                 Координаты: 54.946607, 39.022403
                 Место проведения: Луховицы</description>
+            <guid>1213432213133</guid>
         </item>
     </channel>
 </rss>
