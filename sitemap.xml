@@ -30,9 +30,4 @@
         <changefreq>monthly</changefreq>
         <lastmod>2023-11-20</lastmod>
     </url>
-        <url>
-        <loc>https://demonbek.github.io/motofesty/motofesty.rss</loc>
-        <changefreq>weekly</changefreq>
-        <lastmod>2023-11-20</lastmod>
-    </url>
 </urlset>
